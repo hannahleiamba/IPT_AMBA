@@ -5,5 +5,5 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 ## Sample Code
 `printf( 'Hello World!' );`
 
-How to Install
-Step 1:Download the zip file or use git clone
+## How to Install
+- Step 1:Download the zip file or use git clone
