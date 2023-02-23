@@ -9,3 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 - Step 1:Download the zip file or use git clone
 
 First Commit: hi!
+
+Merge
+
+1st Commit
